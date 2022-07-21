@@ -1,9 +1,9 @@
-## Zee5 Downloader
+
 If you find any bugs, report at @TroJanzSupport
 
 **My Features**:
 
-👉 Upload as file/video from any NON-DRM Zee5 link
+
 
 👉 Permanent thumbnail support.
 
@@ -12,7 +12,7 @@ If you find any bugs, report at @TroJanzSupport
 
 #### Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/TroJanzHEX/Zee5-Downloader)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/marufon24/Webld)
 
 #### Run in your VPS
 
@@ -28,11 +28,8 @@ sudo apt install ffmpeg
 * Run the app
 
 ```sh
-git clone https://github.com/TroJanzHEX/Zee5-Downloader
-cd Zee5-Downloader
-pip3 install -r requirements.txt
-python3 bot.py
-```
+git clone [https://github.com/TroJanzHEX/Zee5-Downloader](https://github.com/marufon24/Webld)
+
 
 ## Configs
 
